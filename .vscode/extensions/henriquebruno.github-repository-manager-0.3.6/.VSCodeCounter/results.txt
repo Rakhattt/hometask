@@ -1,0 +1,61 @@
+Date : 2020-05-03 22:14:17
+Directory : /home/hb/Dev/github-repository-manager/src
+Total : 26 files,  770 codes, 158 comments, 206 blanks, all 1134 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| TypeScript |         24 |        682 |        157 |        202 |      1,041 |
+| XML        |          1 |         58 |          1 |          1 |         60 |
+| HTML       |          1 |         30 |          0 |          3 |         33 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                               | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                  |         26 |        770 |        158 |        206 |      1,134 |
+| Repository                                                                         |          2 |         88 |         16 |         27 |        131 |
+| User                                                                               |          1 |         33 |          1 |          7 |         41 |
+| auth                                                                               |          2 |         69 |         11 |         20 |        100 |
+| commands                                                                           |          1 |         45 |         12 |         11 |         68 |
+| octokit                                                                            |          6 |        139 |         59 |         30 |        228 |
+| octokit/commands                                                                   |          5 |         97 |         54 |         16 |        167 |
+| treeView                                                                           |          8 |        270 |         42 |         86 |        398 |
+| treeView/account                                                                   |          3 |         91 |          7 |         15 |        113 |
+| treeView/repositories                                                              |          4 |        133 |         31 |         47 |        211 |
++------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                           | language   | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| /home/hb/Dev/github-repository-manager/src/Repository/Repository.ts                | TypeScript |         48 |          4 |          9 |         61 |
+| /home/hb/Dev/github-repository-manager/src/Repository/findLocalRepos.ts            | TypeScript |         40 |         12 |         18 |         70 |
+| /home/hb/Dev/github-repository-manager/src/User/User.ts                            | TypeScript |         33 |          1 |          7 |         41 |
+| /home/hb/Dev/github-repository-manager/src/auth/callbackPage.html                  | HTML       |         30 |          0 |          3 |         33 |
+| /home/hb/Dev/github-repository-manager/src/auth/oauth.ts                           | TypeScript |         39 |         11 |         17 |         67 |
+| /home/hb/Dev/github-repository-manager/src/aux.ts                                  | TypeScript |          3 |          0 |          0 |          3 |
+| /home/hb/Dev/github-repository-manager/src/commands/cloneTo.ts                     | TypeScript |         45 |         12 |         11 |         68 |
+| /home/hb/Dev/github-repository-manager/src/configs.ts                              | TypeScript |         14 |          0 |          4 |         18 |
+| /home/hb/Dev/github-repository-manager/src/consts.ts                               | TypeScript |          7 |          1 |          3 |         11 |
+| /home/hb/Dev/github-repository-manager/src/extension.ts                            | TypeScript |         15 |          3 |          6 |         24 |
+| /home/hb/Dev/github-repository-manager/src/github-logo.svg                         | XML        |         58 |          1 |          1 |         60 |
+| /home/hb/Dev/github-repository-manager/src/octokit/commands/aux.ts                 | TypeScript |         21 |         15 |          8 |         44 |
+| /home/hb/Dev/github-repository-manager/src/octokit/commands/cloneRepo.ts           | TypeScript |         23 |         34 |          5 |         62 |
+| /home/hb/Dev/github-repository-manager/src/octokit/commands/createRepo.ts          | TypeScript |         14 |          4 |          1 |         19 |
+| /home/hb/Dev/github-repository-manager/src/octokit/commands/getRepos.ts            | TypeScript |         22 |          1 |          1 |         24 |
+| /home/hb/Dev/github-repository-manager/src/octokit/commands/getUser.ts             | TypeScript |         17 |          0 |          1 |         18 |
+| /home/hb/Dev/github-repository-manager/src/octokit/octokit.ts                      | TypeScript |         42 |          5 |         14 |         61 |
+| /home/hb/Dev/github-repository-manager/src/storage.ts                              | TypeScript |         29 |         12 |         11 |         52 |
+| /home/hb/Dev/github-repository-manager/src/treeView/account/account.ts             | TypeScript |         28 |          2 |          7 |         37 |
+| /home/hb/Dev/github-repository-manager/src/treeView/account/accountLogged.ts       | TypeScript |         26 |          2 |          3 |         31 |
+| /home/hb/Dev/github-repository-manager/src/treeView/account/accountNotLogged.ts    | TypeScript |         37 |          3 |          5 |         45 |
+| /home/hb/Dev/github-repository-manager/src/treeView/base.ts                        | TypeScript |         46 |          4 |         24 |         74 |
+| /home/hb/Dev/github-repository-manager/src/treeView/repositories/clonedRepos.ts    | TypeScript |         36 |          6 |         11 |         53 |
+| /home/hb/Dev/github-repository-manager/src/treeView/repositories/notClonedRepos.ts | TypeScript |         25 |          2 |          3 |         30 |
+| /home/hb/Dev/github-repository-manager/src/treeView/repositories/repoItem.ts       | TypeScript |         43 |          5 |          9 |         57 |
+| /home/hb/Dev/github-repository-manager/src/treeView/repositories/repositories.ts   | TypeScript |         29 |         18 |         24 |         71 |
+| Total                                                                              |            |        770 |        158 |        206 |      1,134 |
++------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
